@@ -1,0 +1,55 @@
+/* .container{
+    width: 900px;
+    margin: 0 auto;
+}
+button{
+    width: 100px;
+    background-color: seagreen;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+input{
+    width: 250px;
+    padding: 10px;
+    color: black;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.img{
+    text-align: center;
+} */
+
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 980px;
+    margin: 0 auto;
+}
+.nav-title{
+    background-color: #4CB8C4;
+    text-align: center;
+    padding: 40px 0px;
+}
+.info{
+    display: flex;
+    width: 360px;
+    background-color: lightblue;
+    justify-content: center;
+    padding: 20px;
+}
+.info-f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
